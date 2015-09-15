@@ -1,0 +1,25 @@
+{
+  "name": "wschat",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/warjiang/wschat",
+  "authors": [
+    "warjiang <1096409085@qq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.x",
+    "angular-ui-router": "ui-router#~0.2.15",
+    "bootstrap": "3.x",
+    "font-awesome": "4.2",
+    "mobile-angular-ui": "1.2.x",
+    "oclazyload": "ocLazyLoad#~1.0.5"
+  }
+}
